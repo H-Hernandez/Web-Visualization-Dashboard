@@ -1,2 +1,2 @@
 # Web-Visualization-Dashboard
-Creating a analytics dashboard on the web
+Creating an analytics dashboard on the web
